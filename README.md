@@ -1,3 +1,3 @@
-nonlinear vibration solver for mdof systems with different nonlinear elements. the code was prepared as a term project for ME576 course
+A GUI nonlinear multi-degree of freedom vibration solver, utilizing the Newton-Raphson method, with different nonlinear elements. Developed as a term project for ME576.
 
-for questions, you can reach me: ginazalmus@gmail.com
+For questions, email: ginazalmus@gmail.com
